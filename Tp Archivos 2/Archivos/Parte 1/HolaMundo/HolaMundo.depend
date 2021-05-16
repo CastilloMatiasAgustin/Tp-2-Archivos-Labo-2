@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1621138138 source:d:\tp archivos 2\archivos\parte 1\holamundo\ciudad.cpp
+	"Ciudad.h"
+	<cstring>
+	<cstdio>
+	<iostream>
+
+1621135664 d:\tp archivos 2\archivos\parte 1\holamundo\ciudad.h
+
+1621144386 source:d:\tp archivos 2\archivos\parte 1\holamundo\pais.cpp
+	"Pais.h"
+	<cstring>
+	<cstdio>
+	<iostream>
+
+1621144386 d:\tp archivos 2\archivos\parte 1\holamundo\pais.h
+
+1621144886 source:d:\tp archivos 2\archivos\parte 1\holamundo\main.cpp
+	<iostream>
+	"Pais.h"
+	"Ciudad.h"
+	"Funciones.h"
+
+1621147098 d:\tp archivos 2\archivos\parte 1\holamundo\funciones.h
+	<cstdio>
+	<cstring>
+	"Mundo.h"
+
+1621146968 source:d:\tp archivos 2\archivos\parte 1\holamundo\src\mundo.cpp
+	"Mundo.h"
+	<cstdio>
+	<iostream>
+
+1621146904 d:\tp archivos 2\archivos\parte 1\holamundo\include\mundo.h
+	<cstring>
+
+1621138138 source:c:\users\castillo\desktop\matias\utn\laboratorio 2 2021\tp archivos 2\archivos\parte 1\holamundo\ciudad.cpp
+	"Ciudad.h"
+	<cstring>
+	<cstdio>
+	<iostream>
+
+1621135664 c:\users\castillo\desktop\matias\utn\laboratorio 2 2021\tp archivos 2\archivos\parte 1\holamundo\ciudad.h
+
+1621144886 source:c:\users\castillo\desktop\matias\utn\laboratorio 2 2021\tp archivos 2\archivos\parte 1\holamundo\main.cpp
+	<iostream>
+	"Pais.h"
+	"Ciudad.h"
+	"Funciones.h"
+
+1621144386 c:\users\castillo\desktop\matias\utn\laboratorio 2 2021\tp archivos 2\archivos\parte 1\holamundo\pais.h
+
+1621193737 c:\users\castillo\desktop\matias\utn\laboratorio 2 2021\tp archivos 2\archivos\parte 1\holamundo\funciones.h
+	<cstdio>
+	<cstring>
+	"Mundo.h"
+
+1621146904 c:\users\castillo\desktop\matias\utn\laboratorio 2 2021\tp archivos 2\archivos\parte 1\holamundo\include\mundo.h
+	<cstring>
+
+1621144386 source:c:\users\castillo\desktop\matias\utn\laboratorio 2 2021\tp archivos 2\archivos\parte 1\holamundo\pais.cpp
+	"Pais.h"
+	<cstring>
+	<cstdio>
+	<iostream>
+
+1621146968 source:c:\users\castillo\desktop\matias\utn\laboratorio 2 2021\tp archivos 2\archivos\parte 1\holamundo\src\mundo.cpp
+	"Mundo.h"
+	<cstdio>
+	<iostream>
+
